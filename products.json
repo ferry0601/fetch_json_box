@@ -1,7 +1,7 @@
 [
         {
-            "name": "Action Figure Hutao",
-            "description": "ini action figure hutao",
+            "name": "Action Figure Roronoa Zoro",
+            "description": "this is action figure Zoro of One Piece",
             "qty": 5,
             "price": "9,98",
             "discount": "5%",
@@ -17,8 +17,8 @@
             }
         },
         {
-            "name": "Action Figure Ganyu",
-            "description": "ini action figure Ganyu",
+            "name": "Action Figure Monkey D. Luffy",
+            "description": "this is action figure Luffy of One Piece",
             "qty": 7,
             "price": "8,77",
             "discount": "5%",
@@ -34,8 +34,8 @@
             }
         },
         {
-            "name": "Action Figure Shenhe",
-            "description": "ini action figure Shenhe",
+            "name": "Action Figure Vinsmoke Sanji",
+            "description": "this is action figure Sanji of One Piece",
             "qty": 2,
             "price": "8,98",
             "discount": "5%",
